@@ -1,4 +1,3 @@
-#仅仅适用于apache服务器
 RewriteEngine on
 RewriteBase /
 
