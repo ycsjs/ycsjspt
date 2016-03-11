@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>界面通行证昵称：<span>{{$user_info.result.nickname}}</span></div>
+<div>礼品卡号：<span>{{$card_information.CardSign}}</span></div>
+<input type="hidden" id="uid" name="uid" value="{{$user_info.result.uid}}" />
+<input type="hidden" id="app_http_url" name="app_http_url"  value="{{$app_http_url}}"/>
+
+<button id="pp_card_bind" name="pp_card_bind">绑定</button>
+
+
+<script type="text/javascript" src="{{$http_resource_js_url}}jquery.min.js"></script>
+<script>
+    var app_http_url = $("#app_http_url").val();
+    $("#pp_card_bind").click(function(){
+        $.ajax({
+            type: "post",
+            url: app_http_url+"CheckCard/AjaxBindCard",
+            dataType: "json",
+            success: function (data) {
+                if(data){
+                    alert("绑定成功")
+                }else{
+                    alert("绑定失败")
+                }
+            }
+        });
+    });
+</script>
+
+
+</body>
+</html>

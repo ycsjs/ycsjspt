@@ -1,0 +1,11 @@
+.page_list { margin:15px 0px 15px 10px; display:block; }
+.page_list li { float:left; display:inline; margin:0 2px; color:#666;}
+.page_list li a { float:left; display:inline; height:15px; line-height:15px; border:1px solid #cbcbcb; padding:3px 3px 2px;}
+.page_list li a:hover { text-decoration:none; }
+.page_list li.pageback_button, .page_list li.pageback_button_select { background:url(../imgs/small_icon.png) no-repeat left -83px; }
+.page_list li.pageback_button_select { background-position: -4px -173px; }
+.page_list li.pageback_button a, .page_list li.pageback_button_select a { padding-left:14px;}
+.page_list li a.select_pagelist { border:1px solid #fea319; background-color:#ffede1; color:#f08200; }
+.page_list li.nextpage, .page_list li.nextpage_select { background:url(../imgs/small_icon.png) no-repeat 57px -144px;}
+.page_list li.nextpage { background-position:51px -114px; }
+.page_list li.nextpage a, .page_list li.nextpage_select a {  padding-right:14px;}

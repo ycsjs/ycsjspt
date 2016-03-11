@@ -1,0 +1,480 @@
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 238
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chmod() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Directory_File.class.php (49)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 242
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 246
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 250
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 254
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 258
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 262
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 266
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 270
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 274
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 278
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 282
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 286
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 290
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 294
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 298
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 302
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 306
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 310
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:42:43
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 314
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 238
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(8192)E_DEPRECATED: Run-time notices(code will not work in future versions).
+	[message]=Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater
+	[file]=Unknown (0)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 242
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 246
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 250
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 254
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 258
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 262
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 266
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 270
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 274
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 278
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 282
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 286
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 290
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 294
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 298
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 302
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 306
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 310
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)
+
+time: 2016-03-10 17:51:04
+server ip: 182.92.181.25
+browser: firefox 44.0
+project name: admin
+http url : admin.uitour.cn/Iattraction/AddIattraction
+file: /data/home/byu17691/htdocs/themes/temp/web/admin/883a713b1e110bff89800152a9a5d439e53f30a1.file.iattraction_add.html.php on line 314
+E_WARNING: Run-time warnings(non-fatal errors).
+in_array() expects parameter 2 to be array, null given
+last error: [type]=(2)E_WARNING: Run-time warnings(non-fatal errors).
+	[message]=chgrp() has been disabled for security reasons
+	[file]=/data/home/byu17691/htdocs/system/libs/model/Log_File.class.php (122)

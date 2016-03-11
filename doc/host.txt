@@ -1,0 +1,4 @@
+127.0.0.1 itravel.jm.lan
+127.0.0.1 ctravel.jm.lan
+127.0.0.1 admin.jm.lan
+127.0.0.1 resource.jm.lan
